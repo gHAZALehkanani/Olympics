@@ -49,3 +49,5 @@ for _ in range(20):
 # Create a DataFrame and save the results to a CSV file
 medals_df = pd.DataFrame(medals_data).drop_duplicates()
 medals_df.to_csv("Paris2024", index=False)
+
+
