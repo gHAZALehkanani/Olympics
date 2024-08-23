@@ -1,4 +1,4 @@
-MEDAL TABLE
+***MEDAL TABLE***
 
 https://olympics.com/en/paris-2024/medals
 
@@ -6,7 +6,7 @@ https://olympics.com/en/paris-2024/medals
 ![image](https://github.com/user-attachments/assets/b9ac30f0-d7ce-4868-9339-120dddcb739c)
 
 
-Data visualisation
+***Data visualisation***
 
 
 ![image](https://github.com/user-attachments/assets/d9e21f00-d450-419e-82d2-2059441d7cd3)
